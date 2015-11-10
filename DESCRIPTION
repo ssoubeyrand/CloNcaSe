@@ -1,0 +1,9 @@
+Package: CloNcaSe
+Type: Package
+Title: Estimation of Effective Size and Sex Rate of a Partially Clonal Population
+Version: 2.0
+Date: 2015-07-07
+Author: Samuel Soubeyrand 
+Maintainer: Samuel Soubeyrand <Samuel.Soubeyrand@avignon.inra.fr>
+Description: Nc (effective size) and s (sex rate) estimator. Code to estimate effective size and sex rate of a partially clonal population sampled at two different times. The samples are supposed to be separated by several clonal cycles and one mixed (i.e. sexual-clonal) cycle.
+License: GPL-3
